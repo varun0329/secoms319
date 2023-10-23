@@ -1,0 +1,38 @@
+[
+    {
+        "cityName": "Dubai",
+        "description": "Dubai, located in the United Arab Emirates, is a futuristic metropolis known for its stunning skyscrapers, including the iconic Burj Khalifa, the world's tallest building. It is also famous for its luxurious lifestyle, thriving business hub, and unique blend of modernity and tradition in the heart of the Arabian Desert.",
+        "averageCostPerDay": "Average Cost per Day: $150",
+        "imageURL": "./images/dubai.jpg"
+    },
+    {
+        "cityName": "London",
+        "description": "London, the capital of the United Kingdom, is a vibrant global city with a rich history spanning over two millennia, showcased through its iconic landmarks such as the Tower of London and Buckingham Palace. It is a cultural melting pot, offering diverse cuisine, world-class museums, and a bustling arts scene, making it a truly cosmopolitan and dynamic destination.",
+        "averageCostPerDay": "Average Cost per Day: $100",
+        "imageURL": "./images/london.jpg"
+    },
+    {
+        "cityName": "Moscow",
+        "description": "Moscow, the capital of Russia, is a city where history and modernity converge, with its stunning Red Square, home to iconic landmarks like the Kremlin and St. Basil's Cathedral. It's a cultural powerhouse, boasting world-class theaters, museums, and a vibrant nightlife, making it a captivating blend of tradition and contemporary life.",
+        "averageCostPerDay": "Average Cost per Day: $80",
+        "imageURL": "./images/moscow.jpg"
+    },
+    {
+        "cityName": "Mumbai",
+        "description": "Mumbai, India's financial and entertainment hub, is a bustling metropolis on the Arabian Sea known for its Bollywood film industry and diverse street food scene. It's a city of contrasts, where towering skyscrapers stand alongside historic colonial architecture, embodying the energy and diversity of India's largest city.",
+        "averageCostPerDay": "Average Cost per Day: $50",
+        "imageURL": "./images/mumbai.jpg"
+    },
+    {
+        "cityName": "New York City",
+        "description": "New York City, often referred to as the 'Big Apple,' is a global cultural and financial epicenter, home to iconic landmarks like Times Square, Central Park, and the Statue of Liberty. Its vibrant neighborhoods, world-renowned arts scene, and diverse population make it a city that never sleeps, offering a unique blend of opportunities and experiences.",
+        "averageCostPerDay": "Average Cost per Day: $150",
+        "imageURL": "./images/newyork.jpg"
+    },
+    {
+        "cityName": "Toronto",
+        "description": "Toronto, Canada's largest city, is a multicultural metropolis known for its striking CN Tower skyline and the beautiful Toronto Islands on Lake Ontario. It boasts a rich arts and food scene, reflecting its diverse population and welcoming atmosphere.",
+        "averageCostPerDay": "Average Cost per Day: $80",
+        "imageURL": "./images/toronto.jpg"
+    }
+]
